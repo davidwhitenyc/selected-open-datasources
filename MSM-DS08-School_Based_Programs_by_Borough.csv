@@ -1,0 +1,304 @@
+District,Borough,Building ID,School,Project #,Description,FY,Total
+01,Manhattan,M034,P.S. 34,DSF0000897947,State of Good Repair - System Replacements - Exterior Masonry,2021,2319915
+01,Manhattan,M034,P.S. 34,DSF0000897946,State of Good Repair - System Replacements - Parapets,2021,2643075
+01,Manhattan,M034,P.S. 34,DSF0000897945,State of Good Repair - Building Upgrade - Flood Elimination,2021,899858
+01,Manhattan,M064,P.S. 64 (OLD 71),DSF0000898265,State of Good Repair - Building Upgrade - Flood Elimination,2020,1745226
+01,Manhattan,M064,P.S. 64 (OLD 71),DSF0000898270,State of Good Repair - System Replacements - Exterior Masonry,2020,6701034
+01,Manhattan,M064,P.S. 64 (OLD 71),DSF0000898269,State of Good Repair - System Replacements - Parapets,2020,3135589
+01,Manhattan,M064,P.S. 64 (OLD 71),DSF0000898268,State of Good Repair - System Replacements - Roofs,2020,4588785
+02,Manhattan,M041,P.S. 41,DSF0000897984,State of Good Repair - System Replacements - Parapets,2021,1982307
+02,Manhattan,M041,P.S. 41,DSF0000897983,State of Good Repair - System Replacements - Roofs,2021,2518239
+02,Manhattan,M041,P.S. 41,DSF0000897985,State of Good Repair - System Replacements - Exterior Masonry,2021,3530306
+02,Manhattan,M042,P.S. 42,DSF0000898005,State of Good Repair - System Replacements - Exterior Masonry,2021,4556256
+02,Manhattan,M042,P.S. 42,DSF0000898003,State of Good Repair - System Replacements - Parapets,2021,2089949
+02,Manhattan,M042,P.S. 42,DSF0000898002,State of Good Repair - System Replacements - Roofs,2021,1510944
+02,Manhattan,M042,P.S. 42,DSF0000898004,State of Good Repair - System Replacements - Windows,2021,7952320
+02,Manhattan,M042,P.S. 42,DSF0000898000,State of Good Repair - Building Upgrade - Flood Elimination,2021,1207613
+04,Manhattan,M072,P.S. 72,DSF0000912082,State of Good Repair - System Replacements - Electrical Systems,2020,250000
+04,Manhattan,M108,P.S. 108,DSF0000898614,State of Good Repair - System Replacements - Roofs,2021,3021887
+04,Manhattan,M108,P.S. 108,DSF0000898613,State of Good Repair - Building Upgrade - Flood Elimination,2021,1432584
+04,Manhattan,M108,P.S. 108,DSF0000898617,State of Good Repair - System Replacements - Exterior Masonry,2021,3530306
+05,Manhattan,M046,P.S. 46,DSF0000912080,State of Good Repair - System Replacements - Electrical Systems,2020,400000
+05,Manhattan,M129,P.S. 129,DSF0000785990,State of Good Repair - System Replacements - Domestic Piping,2020,942232
+05,Manhattan,M129,P.S. 129,DSF0000912084,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+05,Manhattan,M161,P.S. 161,DSF0000798537,State of Good Repair - System Replacements - Domestic Piping,2020,909558
+06,Manhattan,M028,P.S. 28,DSF0000912179,State of Good Repair - System Replacements - Domestic Piping,2020,728398
+06,Manhattan,M052,I.S. 52,DSF0000912081,State of Good Repair - System Replacements - Electrical Systems,2020,200000
+06,Manhattan,M098,P.S. 98,DSF0000912083,State of Good Repair - System Replacements - Electrical Systems,2020,320000
+06,Manhattan,M173,P.S. 173,DSF0000912086,State of Good Repair - System Replacements - Electrical Systems,2020,30000
+06,Manhattan,M176,P.S./I.S. 176,DSF0000899402,State of Good Repair - System Replacements - Parapets,2022,2088003
+06,Manhattan,M187,P.S./I.S. 187,DSF0000798540,State of Good Repair - System Replacements - Domestic Piping,2020,878302
+06,Manhattan,M192,P.S. 192,DSF0000912087,State of Good Repair - System Replacements - Electrical Systems,2020,200000
+07,Bronx,X025,P.S. 25,DSF0000912118,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+07,Bronx,X040,P.S. 220,DSF0000912120,State of Good Repair - System Replacements - Electrical Systems,2020,200000
+07,Bronx,X151,I.S. 151,DSF0000908751,State of Good Repair - System Replacements - Exterior Masonry,2020,7165449
+07,Bronx,X151,I.S. 151,DSF0000908750,State of Good Repair - System Replacements - Roofs,2020,3978688
+07,Bronx,X161,P.S. 161,DSF0000912143,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+07,Bronx,X162,I.S. 162,DSF0000912144,State of Good Repair - System Replacements - Electrical Systems,2020,120000
+08,Bronx,X060,P.S. 333,DSF0000912125,State of Good Repair - System Replacements - Electrical Systems,2020,30000
+08,Bronx,X062,P.S. 62,DSF0000912127,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+08,Bronx,X074,I.S. 201,DSF0000912207,State of Good Repair - System Replacements - Electrical Systems,2020,715263
+08,Bronx,X100,P.S. 100,DSF0000912133,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+08,Bronx,X123,I.S. 123,DSF0000866311,State of Good Repair - Building Upgrade - Boiler Conversion,2020,71743
+08,Bronx,X123,I.S. 123,DSF0000862814,State of Good Repair - Building Upgrade - Climate Control,2020,26521
+08,Bronx,X125,I.S. 125,DSF0000912223,State of Good Repair - System Replacements - Electrical Systems,2020,160000
+08,Bronx,X140,P.S. 140,DSF0000798531,State of Good Repair - System Replacements - Domestic Piping,2020,854696
+08,Bronx,X174,I.S. 174,DSF0000912146,State of Good Repair - System Replacements - Electrical Systems,2020,370000
+09,Bronx,X058,P.S. 58,DSF0000912124,State of Good Repair - System Replacements - Electrical Systems,2020,240000
+09,Bronx,X073,P.S. 73,DSF0000912129,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+09,Bronx,X090,P.S. 90,DSF0000912132,State of Good Repair - System Replacements - Electrical Systems,2020,40000
+09,Bronx,X104,P.S. 199,DSF0000912134,State of Good Repair - System Replacements - Electrical Systems,2020,270000
+09,Bronx,X126,P.S. 126 (ECF),DSF0000912138,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+09,Bronx,X145,I.S. 145,DSF0000908640,State of Good Repair - System Replacements - Roofs,2020,3708946
+09,Bronx,X145,I.S. 145,DSF0000908641,State of Good Repair - System Replacements - Parapets,2020,729583
+09,Bronx,X145,I.S. 145,DSF0000908642,State of Good Repair - System Replacements - Exterior Masonry,2020,5629996
+09,Bronx,X145,I.S. 145,DSF0000912246,Educational Enhancements - Educational Enhancements - School Improvement and Restructuring,2020,115000
+09,Bronx,X145,I.S. 145,DSF0000912165,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,731000
+09,Bronx,X145,I.S. 145,DSF0000912247,Educational Enhancements - Educational Enhancements - School Improvement and Restructuring,2020,218000
+09,Bronx,X147,I.S. 339 (OLD 147),DSF0000912142,State of Good Repair - System Replacements - Electrical Systems,2020,30000
+09,Bronx,X166,I.S. 166,DSF0000912145,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+09,Bronx,X338,MORRIS HEIGHTS EDUCATIONAL COMPLEX,DSF0000911284,State of Good Repair - System Replacements - Parapets,2022,1194155
+10,Bronx,X008,P.S. 8,DSF0000906383,State of Good Repair - System Replacements - Exterior Masonry,2021,2622513
+10,Bronx,X008,P.S. 8,DSF0000906382,State of Good Repair - System Replacements - Parapets,2021,1817114
+10,Bronx,X008,P.S. 8,DSF0000906381,State of Good Repair - System Replacements - Roofs,2021,4230642
+10,Bronx,X079,P.S. 79,DSF0000912131,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+10,Bronx,X115,I.S. 399 (OLD X HS/115),DSF0000912135,State of Good Repair - System Replacements - Electrical Systems,2020,160000
+10,Bronx,X122,P.S. 310,DSF0000912137,State of Good Repair - System Replacements - Electrical Systems,2020,300000
+10,Bronx,X141,M.S./H.S. 141,DSF0000912210,State of Good Repair - System Replacements - Electrical Systems,2020,653683
+10,Bronx,X143,I.S. 143,DSF0000912140,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+10,Bronx,X206,I.S. 206B,DSF0000909253,State of Good Repair - Building Upgrade - Flood Elimination,2022,722255
+10,Bronx,X206,I.S. 206B,DSF0000909255,State of Good Repair - System Replacements - Parapets,2022,1710775
+10,Bronx,X306,P.S. 306,DSF0000912212,State of Good Repair - System Replacements - Electrical Systems,2020,1442459
+10,Bronx,X826,P.S. 226 MINISCHOOL,DSF0000912148,State of Good Repair - System Replacements - Electrical Systems,2020,130000
+10,Bronx,X853,P.S. 59 ANNEX,DSF0000909948,State of Good Repair - System Replacements - Roofs,2021,953520
+11,Bronx,X041,P.S. 41,DSF0000912121,State of Good Repair - System Replacements - Electrical Systems,2020,210000
+11,Bronx,X078,P.S. 78,DSF0000912130,State of Good Repair - System Replacements - Electrical Systems,2020,110000
+11,Bronx,X144,I.S. 144,DSF0000912141,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+11,Bronx,X160,P.S. 160,DSF0000908894,State of Good Repair - System Replacements - Exterior Masonry,2021,3328574
+11,Bronx,X160,P.S. 160,DSF0000908893,State of Good Repair - System Replacements - Parapets,2021,3634229
+12,Bronx,X006,P.S. 6,DSF0000906343,State of Good Repair - Building Upgrade - Flood Elimination,2022,1406601
+12,Bronx,X006,P.S. 6,DSF0000906348,State of Good Repair - System Replacements - Exterior Masonry,2022,6351875
+12,Bronx,X006,P.S. 6,DSF0000906347,State of Good Repair - System Replacements - Parapets,2022,3962492
+12,Bronx,X006,P.S. 6,DSF0000906346,State of Good Repair - System Replacements - Roofs,2022,1591507
+12,Bronx,X057,P.S. 57,DSF0000912123,State of Good Repair - System Replacements - Electrical Systems,2020,240000
+12,Bronx,X061,P.S. 61,DSF0000912126,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+12,Bronx,X067,P.S. 67,DSF0000912128,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+12,Bronx,X102,P.S. 102,DSF0000912208,State of Good Repair - System Replacements - Electrical Systems,2020,684759
+12,Bronx,X134,P.S. 134,DSF0000912139,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+12,Bronx,X167,P.S. 214,DSF0000908962,State of Good Repair - System Replacements - Parapets,2022,2784004
+12,Bronx,X193,P.S. 211,DSF0000912211,State of Good Repair - System Replacements - Electrical Systems,2020,663790
+12,Bronx,X198,P.S. 198,DSF0000909221,State of Good Repair - System Replacements - Parapets,2020,2822030
+12,Bronx,X198,P.S. 198,DSF0000909220,State of Good Repair - System Replacements - Roofs,2020,4397586
+12,Bronx,X198,P.S. 198,DSF0000909222,State of Good Repair - System Replacements - Windows,2020,4851855
+12,Bronx,X198,P.S. 198,DSF0000912245,Educational Enhancements - Educational Enhancements - School Improvement and Restructuring,2020,176000
+12,Bronx,X198,P.S. 198,DSF0000909223,State of Good Repair - System Replacements - Exterior Masonry,2020,2967601
+13,Brooklyn,K046,P.S. 46,DSF0000912046,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+13,Brooklyn,K093,P.S. 93,DSF0000892333,State of Good Repair - System Replacements - Windows,2022,9572956
+13,Brooklyn,K093,P.S. 93,DSF0000892329,State of Good Repair - Building Upgrade - Flood Elimination,2022,1321294
+13,Brooklyn,K093,P.S. 93,DSF0000866780,State of Good Repair - System Replacements - Electrical Systems,2020,9536
+13,Brooklyn,K093,P.S. 93,DSF0000892334,State of Good Repair - System Replacements - Exterior Masonry,2022,4516889
+13,Brooklyn,K093,P.S. 93,DSF0000892332,State of Good Repair - System Replacements - Parapets,2022,2641661
+13,Brooklyn,K093,P.S. 93,DSF0000892331,State of Good Repair - System Replacements - Roofs,2022,2546411
+13,Brooklyn,K265,I.S. 265,DSF0000895099,State of Good Repair - System Replacements - Roofs,2020,3304334
+13,Brooklyn,K265,I.S. 265,DSF0000895100,State of Good Repair - System Replacements - Parapets,2020,2003897
+13,Brooklyn,K265,I.S. 265,DSF0000895098,State of Good Repair - Building Upgrade - Flood Elimination,2020,1810185
+13,Brooklyn,K265,I.S. 265,DSF0000895101,State of Good Repair - System Replacements - Exterior Masonry,2020,3070907
+13,Brooklyn,K270,P.S. 270,DSF0000912070,State of Good Repair - System Replacements - Electrical Systems,2020,130000
+14,Brooklyn,K023,P.S. 23,DSF0000912044,State of Good Repair - System Replacements - Electrical Systems,2020,220000
+14,Brooklyn,K147,P.S. 147,DSF0000912051,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+14,Brooklyn,K319,P.S. 319,DSF0000895802,State of Good Repair - System Replacements - Roofs,2020,1357439
+14,Brooklyn,K319,P.S. 319,DSF0000895803,State of Good Repair - System Replacements - Windows,2020,1314643
+16,Brooklyn,K243,P.S. 243,DSF0000894742,State of Good Repair - System Replacements - Parapets,2020,1113071
+16,Brooklyn,K243,P.S. 243,DSF0000894741,State of Good Repair - System Replacements - Roofs,2020,4206386
+16,Brooklyn,K243,P.S. 243,DSF0000894743,State of Good Repair - System Replacements - Exterior Masonry,2020,2584684
+17,Brooklyn,K022,P.S. 22,DSF0000891499,State of Good Repair - System Replacements - Parapets,2022,2262003
+17,Brooklyn,K061,I.S. 61,DSF0000912047,State of Good Repair - System Replacements - Electrical Systems,2020,100000
+17,Brooklyn,K167,P.S. 167,DSF0000912056,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+17,Brooklyn,K210,I.S. 394,DSF0000912060,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+17,Brooklyn,K241,P.S. 241,DSF0000912066,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+17,Brooklyn,K246,I.S. 246,DSF0000911935,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,577000
+17,Brooklyn,K249,P.S. 249,DSF0000912217,State of Good Repair - System Replacements - Electrical Systems,2020,426193
+17,Brooklyn,K249,P.S. 249,DSF0000912067,State of Good Repair - System Replacements - Electrical Systems,2020,230000
+17,Brooklyn,K320,P.S. 375,DSF0000912071,State of Good Repair - System Replacements - Electrical Systems,2020,100000
+17,Brooklyn,K398,P.S. 398 (UDC),DSF0000912075,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+17,Brooklyn,K474,P.S. 167 GYM ANNEX,DSF0000889558,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2020,8133489
+18,Brooklyn,K068,I.S. 68,DSF0000892088,State of Good Repair - Building Upgrade - Flood Elimination,2021,2112653
+18,Brooklyn,K068,I.S. 68,DSF0000892091,State of Good Repair - System Replacements - Exterior Masonry,2021,4745681
+18,Brooklyn,K068,I.S. 68,DSF0000892090,State of Good Repair - System Replacements - Roofs,2021,3979022
+18,Brooklyn,K114,P.S. 114,DSF0000891000,Code Compliance,2020,2540000
+18,Brooklyn,K219,P.S. 219,DSF0000912064,State of Good Repair - System Replacements - Electrical Systems,2020,160000
+18,Brooklyn,K268,P.S. 268,DSF0000798518,State of Good Repair - System Replacements - Domestic Piping,2020,796187
+18,Brooklyn,K276,P.S. 276,DSF0000895260,State of Good Repair - System Replacements - Windows,2021,6816274
+19,Brooklyn,K149,P.S. 149,DSF0000912052,State of Good Repair - System Replacements - Electrical Systems,2020,170000
+19,Brooklyn,K159,P.S. 159,DSF0000912055,State of Good Repair - System Replacements - Electrical Systems,2020,30000
+19,Brooklyn,K166,I.S. 166,DSF0000893392,State of Good Repair - System Replacements - Exterior Masonry,2022,4930556
+19,Brooklyn,K166,I.S. 166,DSF0000893391,State of Good Repair - System Replacements - Parapets,2022,2052930
+19,Brooklyn,K202,P.S. 202,DSF0000888883,State of Good Repair - Rehabilitation of Physical Education Facilities - Playground Redevelopment,2020,6559173
+19,Brooklyn,K202,P.S. 202,DSF0000912059,State of Good Repair - System Replacements - Electrical Systems,2020,280000
+19,Brooklyn,K214,P.S. 214,DSF0000912061,State of Good Repair - System Replacements - Electrical Systems,2020,220000
+19,Brooklyn,K218,I.S. 218,DSF0000912063,State of Good Repair - System Replacements - Electrical Systems,2020,300000
+19,Brooklyn,K260,P.S. 260,DSF0000895028,State of Good Repair - System Replacements - Roofs,2020,3083090
+19,Brooklyn,K260,P.S. 260,DSF0000895029,State of Good Repair - System Replacements - Parapets,2020,1567794
+19,Brooklyn,K345,P.S. 345,DSF0000912072,State of Good Repair - System Replacements - Electrical Systems,2020,350000
+20,Brooklyn,K104,P.S. 104,DSF0000798504,State of Good Repair - System Replacements - Domestic Piping,2020,796187
+20,Brooklyn,K112,P.S. 112,DSF0000892622,State of Good Repair - Building Upgrade - Flood Elimination,2021,718089
+20,Brooklyn,K112,P.S. 112,DSF0000892625,State of Good Repair - System Replacements - Exterior Masonry,2021,2680150
+20,Brooklyn,K112,P.S. 112,DSF0000892623,State of Good Repair - System Replacements - Parapets,2021,1880954
+20,Brooklyn,K112,P.S. 112,DSF0000892624,State of Good Repair - System Replacements - Windows,2021,4089765
+20,Brooklyn,K127,P.S. 127,DSF0000798424,State of Good Repair - Building Upgrade - Boiler Conversion,2020,7447034
+20,Brooklyn,K127,P.S. 127,DSF0000779662,State of Good Repair - Building Upgrade - Climate Control,2020,1456570
+20,Brooklyn,K160,P.S. 160,DSF0000798507,State of Good Repair - System Replacements - Domestic Piping,2020,909558
+20,Brooklyn,K192,P.S. 192,DSF0000912058,State of Good Repair - System Replacements - Electrical Systems,2020,240000
+20,Brooklyn,K223,I.S. 223,DSF0000798513,State of Good Repair - System Replacements - Domestic Piping,2020,942232
+21,Brooklyn,K099,P.S. 99,DSF0000798503,State of Good Repair - System Replacements - Domestic Piping,2020,878302
+21,Brooklyn,K153,P.S. 153,DSF0000912053,State of Good Repair - System Replacements - Electrical Systems,2020,210000
+21,Brooklyn,K253,P.S. 253,DSF0000912069,State of Good Repair - System Replacements - Electrical Systems,2020,300000
+22,Brooklyn,K014,I.S. 14,DSF0000912041,State of Good Repair - System Replacements - Electrical Systems,2020,270000
+22,Brooklyn,K052,P.S. 52,DSF0000891902,State of Good Repair - Building Upgrade - Flood Elimination,2021,1479380
+22,Brooklyn,K052,P.S. 52,DSF0000891904,State of Good Repair - System Replacements - Exterior Masonry,2021,3631171
+22,Brooklyn,K052,P.S. 52,DSF0000891903,State of Good Repair - System Replacements - Windows,2021,7952320
+22,Brooklyn,K217,P.S. 217,DSF0000912062,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+22,Brooklyn,K240,I.S. 240,DSF0000912065,State of Good Repair - System Replacements - Electrical Systems,2020,440000
+22,Brooklyn,K251,P.S. 251,DSF0000912068,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+22,Brooklyn,K255,P.S. 255,DSF0000912237,State of Good Repair - System Replacements - Electrical Systems,2020,1902
+23,Brooklyn,K155,P.S. 155,DSF0000912054,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+23,Brooklyn,K184,P.S. 184,DSF0000912057,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+23,Brooklyn,K284,P.S. 284,DSF0000798523,State of Good Repair - System Replacements - Domestic Piping,2020,942232
+23,Brooklyn,K284,P.S. 284,DSF0000912180,State of Good Repair - System Replacements - Toilets - Students,2020,300000
+23,Brooklyn,K298,P.S. 298,DSF0000798526,State of Good Repair - System Replacements - Domestic Piping,2020,909558
+23,Brooklyn,K327,P.S. 327 (TANDEM K396-D75),DSF0000912218,State of Good Repair - System Replacements - Electrical Systems,2020,603324
+23,Brooklyn,K332,P.S. 332,DSF0000895934,State of Good Repair - System Replacements - Exterior Masonry,2022,3771663
+23,Brooklyn,K332,P.S. 332,DSF0000895933,State of Good Repair - System Replacements - Parapets,2022,2784004
+23,Brooklyn,K332,P.S. 332,DSF0000895932,State of Good Repair - System Replacements - Roofs,2022,7002630
+24,Queens,Q012,P.S. 12,DSF0000900613,State of Good Repair - Building Upgrade - Flood Elimination,2022,1031252
+24,Queens,Q012,P.S. 12,DSF0000900617,State of Good Repair - System Replacements - Exterior Masonry,2022,5363806
+24,Queens,Q012,P.S. 12,DSF0000900616,State of Good Repair - System Replacements - Parapets,2022,5283323
+24,Queens,Q012,P.S. 12,DSF0000900615,State of Good Repair - System Replacements - Roofs,2022,3851447
+24,Queens,Q013,P.S. 13,DSF0000900626,State of Good Repair - System Replacements - Parapets,2022,5723600
+24,Queens,Q013,P.S. 13,DSF0000900624,State of Good Repair - Building Upgrade - Flood Elimination,2022,1235988
+24,Queens,Q013,P.S. 13,DSF0000900627,State of Good Repair - System Replacements - Exterior Masonry,2022,12562598
+24,Queens,Q058,P.S. 58,DSF0000910388,State of Good Repair - System Replacements - Roofs,2021,3626264
+24,Queens,Q058,P.S. 58,DSF0000910390,State of Good Repair - System Replacements - Exterior Masonry,2021,5547623
+24,Queens,Q058,P.S. 58,DSF0000910389,State of Good Repair - System Replacements - Parapets,2021,1982307
+24,Queens,Q073,I.S. 73,DSF0000912095,State of Good Repair - System Replacements - Electrical Systems,2020,720000
+24,Queens,Q091,P.S. 91,DSF0000901810,State of Good Repair - Building Upgrade - Flood Elimination,2022,1520377
+24,Queens,Q091,P.S. 91,DSF0000901812,State of Good Repair - System Replacements - Exterior Masonry,2022,7622250
+24,Queens,Q091,P.S. 91,DSF0000901811,State of Good Repair - System Replacements - Roofs,2022,2811662
+24,Queens,Q093,I.S. 93,DSF0000912098,State of Good Repair - System Replacements - Electrical Systems,2020,300000
+24,Queens,Q119,I.S. 119,DSF0000902237,State of Good Repair - System Replacements - Parapets,2021,2553036
+24,Queens,Q119,I.S. 119,DSF0000902239,State of Good Repair - System Replacements - Exterior Masonry,2021,7069471
+24,Queens,Q119,I.S. 119,DSF0000902234,State of Good Repair - Building Upgrade - Flood Elimination,2021,1254409
+24,Queens,Q119,I.S. 119,DSF0000902238,State of Good Repair - System Replacements - Windows,2021,6398246
+24,Queens,Q143,P.S. 143,DSF0000902669,State of Good Repair - Building Upgrade - Flood Elimination,2022,1417845
+24,Queens,Q143,P.S. 143,DSF0000902671,State of Good Repair - System Replacements - Parapets,2022,3962492
+24,Queens,Q143,P.S. 143,DSF0000902670,State of Good Repair - System Replacements - Roofs,2022,2970813
+24,Queens,Q269,P.S./I.S. 269,DSF0000912111,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+25,Queens,Q020,P.S. 20,DSF0000912090,State of Good Repair - System Replacements - Electrical Systems,2020,190000
+25,Queens,Q107,P.S. 107,DSF0000902054,State of Good Repair - System Replacements - Exterior Masonry,2022,8186862
+25,Queens,Q107,P.S. 107,DSF0000902053,State of Good Repair - System Replacements - Parapets,2022,4182631
+25,Queens,Q107,P.S. 107,DSF0000902050,State of Good Repair - Building Upgrade - Flood Elimination,2022,1560153
+25,Queens,Q107,P.S. 107,DSF0000902052,State of Good Repair - System Replacements - Roofs,2022,1697607
+26,Queens,Q041,P.S. 41 ADDITION,DSF0000798524,State of Good Repair - System Replacements - Domestic Piping,2020,796187
+26,Queens,Q046,P.S. 46 ADDITION,DSF0000798471,State of Good Repair - Building Upgrade - Boiler Conversion,2023,4854453
+26,Queens,Q046,P.S. 46 ADDITION,DSF0000788342,State of Good Repair - Building Upgrade - Climate Control,2023,2052743
+26,Queens,Q094,P.S. 94,DSF0000798538,State of Good Repair - System Replacements - Domestic Piping,2020,878302
+26,Queens,Q172,J.H.S. 172,DSF0000903138,State of Good Repair - System Replacements - Exterior Masonry,2022,4941917
+26,Queens,Q172,J.H.S. 172,DSF0000903137,State of Good Repair - System Replacements - Parapets,2022,3661059
+26,Queens,Q172,J.H.S. 172,DSF0000903136,State of Good Repair - System Replacements - Roofs,2022,3367915
+26,Queens,Q186,P.S. 186,DSF0000911933,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,500000
+27,Queens,Q090,P.S. 90,DSF0000912097,State of Good Repair - System Replacements - Electrical Systems,2020,140000
+27,Queens,Q097,P.S. 97,DSF0000912099,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+27,Queens,Q123,P.S. 123,DSF0000912100,State of Good Repair - System Replacements - Electrical Systems,2020,180000
+27,Queens,Q183,P.S. 183,DSF0000912107,State of Good Repair - System Replacements - Electrical Systems,2020,360000
+27,Queens,Q198,I.S. 198,DSF0000903525,State of Good Repair - System Replacements - Exterior Masonry,2021,3882830
+27,Queens,Q198,I.S. 198,DSF0000903523,State of Good Repair - System Replacements - Roofs,2021,3389274
+27,Queens,Q210,I.S. 210,DSF0000912108,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+27,Queens,Q223,P.S. 223,DSF0000912109,State of Good Repair - System Replacements - Electrical Systems,2020,10000
+28,Queens,Q040,P.S. 40,DSF0000912091,State of Good Repair - System Replacements - Electrical Systems,2020,140000
+28,Queens,Q050,P.S. 50,DSF0000912092,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+28,Queens,Q054,P.S. 54,DSF0000912093,State of Good Repair - System Replacements - Electrical Systems,2020,210000
+28,Queens,Q082,P.S. 82,DSF0000912096,State of Good Repair - System Replacements - Electrical Systems,2020,200000
+28,Queens,Q144,P.S. 144,DSF0000902690,State of Good Repair - Building Upgrade - Flood Elimination,2022,961113
+28,Queens,Q144,P.S. 144,DSF0000902694,State of Good Repair - System Replacements - Exterior Masonry,2022,6069570
+28,Queens,Q144,P.S. 144,DSF0000902692,State of Good Repair - System Replacements - Parapets,2022,2421523
+28,Queens,Q144,P.S. 144,DSF0000902691,State of Good Repair - System Replacements - Roofs,2022,1925723
+28,Queens,Q144,P.S. 144,DSF0000902693,State of Good Repair - System Replacements - Windows,2022,7778027
+28,Queens,Q160,P.S. 160,DSF0000912106,State of Good Repair - System Replacements - Electrical Systems,2020,270000
+28,Queens,Q220,P.S. 220,DSF0000791172,State of Good Repair - System Replacements - Heating Plant Upgrade,2020,75200
+28,Queens,Q278,PS 182 ANNEX,DSF0000912112,State of Good Repair - System Replacements - Electrical Systems,2020,120000
+29,Queens,Q036,P.S. 36,DSF0000911945,State of Good Repair - System Replacements - Electrical Systems,2020,189311
+30,Queens,Q070,P.S. 70,DSF0000912094,State of Good Repair - System Replacements - Electrical Systems,2020,193400
+30,Queens,Q126,I.S. 126,DSF0000912101,State of Good Repair - System Replacements - Electrical Systems,2020,200000
+30,Queens,Q127,P.S. 127,DSF0000912102,State of Good Repair - System Replacements - Electrical Systems,2020,360000
+30,Queens,Q145,I.S. 145,DSF0000912103,State of Good Repair - System Replacements - Electrical Systems,2020,540000
+30,Queens,Q148,P.S. 148,DSF0000912104,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+30,Queens,Q150,P.S. 150,DSF0000902816,State of Good Repair - System Replacements - Roofs,2020,2389992
+30,Queens,Q150,P.S. 150,DSF0000902814,State of Good Repair - Building Upgrade - Flood Elimination,2020,1035092
+30,Queens,Q150,P.S. 150,DSF0000902818,State of Good Repair - System Replacements - Exterior Masonry,2020,5977596
+30,Queens,Q150,P.S. 150,DSF0000902817,State of Good Repair - System Replacements - Parapets,2020,3808346
+30,Queens,Q152,P.S. 152,DSF0000912105,State of Good Repair - System Replacements - Electrical Systems,2020,440000
+30,Queens,Q234,P.S. 234,DSF0000910496,State of Good Repair - System Replacements - Parapets,2022,2436003
+30,Queens,Q234,P.S. 234,DSF0000910495,State of Good Repair - System Replacements - Roofs,2022,2323600
+30,Queens,Q234,P.S. 234,DSF0000910497,State of Good Repair - System Replacements - Exterior Masonry,2022,3718541
+31,Staten Island,R008,P.S. 8,DSF0000912236,State of Good Repair - System Replacements - Electrical Systems,2020,21980
+31,Staten Island,R014,P.S. 14,DSF0000905096,State of Good Repair - System Replacements - Exterior Masonry,2021,3227708
+31,Staten Island,R014,P.S. 14,DSF0000905095,State of Good Repair - System Replacements - Parapets,2021,1982307
+31,Staten Island,R014,P.S. 14,DSF0000905094,State of Good Repair - System Replacements - Roofs,2021,3324076
+31,Staten Island,R016,P.S. 16,DSF0000905112,State of Good Repair - System Replacements - Exterior Masonry,2021,5043294
+31,Staten Island,R022,P.S. 22,DSF0000905202,State of Good Repair - System Replacements - Roofs,2020,4493185
+31,Staten Island,R022,P.S. 22,DSF0000905203,State of Good Repair - System Replacements - Parapets,2020,2380216
+31,Staten Island,R022,P.S. 22,DSF0000905200,State of Good Repair - Building Upgrade - Flood Elimination,2020,1021425
+31,Staten Island,R022,P.S. 22,DSF0000905204,State of Good Repair - System Replacements - Exterior Masonry,2020,4451401
+31,Staten Island,R023,P.S. 23,DSF0000798555,State of Good Repair - System Replacements - Domestic Piping,2020,878302
+31,Staten Island,R051,I.S. 51,DSF0000912213,State of Good Repair - System Replacements - Electrical Systems,2020,586381
+31,Staten Island,R060,P.S. 60,DSF0000798550,State of Good Repair - System Replacements - Domestic Piping,2020,942232
+31,Staten Island,R061,I.S. 61,DSF0000912114,State of Good Repair - System Replacements - Electrical Systems,2020,260000
+31,Staten Island,R831,P.S. 74,DSF0000906107,State of Good Repair - System Replacements - Windows,2020,3234570
+32,Brooklyn,K145,P.S. 145,DSF0000912050,State of Good Repair - System Replacements - Electrical Systems,2020,150000
+32,Brooklyn,K299,P.S. 299,DSF0000895586,State of Good Repair - Building Upgrade - Flood Elimination,2020,1250311
+32,Brooklyn,K299,P.S. 299,DSF0000895587,State of Good Repair - System Replacements - Roofs,2020,3489389
+32,Brooklyn,K299,P.S. 299,DSF0000895589,State of Good Repair - System Replacements - Exterior Masonry,2020,2871872
+32,Brooklyn,K299,P.S. 299,DSF0000895588,State of Good Repair - System Replacements - Parapets,2020,1724574
+32,Brooklyn,K383,I.S. 383,DSF0000912074,State of Good Repair - System Replacements - Electrical Systems,2020,380000
+32,Brooklyn,K383,I.S. 383,DSF0000912219,State of Good Repair - System Replacements - Electrical Systems,2020,692658
+33K,Brooklyn,K818,DISTRICT #18 CEC,DSF0000911250,Ancillary Facilities - Administrative Support - Administrative Support,2020,746592
+75K,Brooklyn,K853,P.S. 93 AX (ECF BD STUY ECC2),DSF0000897264,State of Good Repair - System Replacements - Exterior Masonry,2022,314288
+75K,Brooklyn,K877,P.S. 369 AX-(OL 396X/FLTB TN HL),DSF0000897422,State of Good Repair - System Replacements - Windows,2021,1704069
+75K,Brooklyn,K877,P.S. 369 AX-(OL 396X/FLTB TN HL),DSF0000897423,State of Good Repair - System Replacements - Exterior Masonry,2021,1427100
+75K,Brooklyn,K877,P.S. 369 AX-(OL 396X/FLTB TN HL),DSF0000897420,State of Good Repair - Building Upgrade - Flood Elimination,2021,296950
+75R,Staten Island,R843,P.S. 37 MINISCHOOL (OLD P32),DSF0000888914,State of Good Repair - Rehabilitation of Physical Education Facilities - Playground Redevelopment,2021,3000000
+78K,Brooklyn,K410,ABRAHAM LINCOLN HS,DSF0000912076,State of Good Repair - System Replacements - Electrical Systems,2020,680000
+78K,Brooklyn,K465,ERASMUS HALL CAMPUS,DSF0000912077,State of Good Repair - System Replacements - Electrical Systems,2020,300000
+78K,Brooklyn,K495,FRANK J. MACCHIAROLA EDUCATIONAL COMPLEX,DSF0000912078,State of Good Repair - System Replacements - Electrical Systems,2020,410000
+78K,Brooklyn,K500,CANARSIE HS,DSF0000912166,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,742500
+78K,Brooklyn,K500,CANARSIE HS,DSF0000912079,State of Good Repair - System Replacements - Electrical Systems,2020,330000
+78K,Brooklyn,K865,SECOND OPPORTUNITY SCHOOL,DSF0000798529,State of Good Repair - System Replacements - Domestic Piping,2020,878302
+78M,Manhattan,M136,I.S. 136,DSF0000912085,State of Good Repair - System Replacements - Electrical Systems,2020,160000
+78M,Manhattan,M465,G. WASHINGTON HS EDUC. CAMPUS,DSF0000912214,State of Good Repair - System Replacements - Electrical Systems,2020,794657
+78M,Manhattan,M477,STUYVESANT HS (NEW),DSF0000911934,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,742500
+78M,Manhattan,M535,PARK WEST HS (ECF),DSF0000912088,State of Good Repair - System Replacements - Electrical Systems,2020,30000
+78M,Manhattan,M641,CITY AS SCHOOL (OLD 95),DSF0000900222,State of Good Repair - Building Upgrade - Flood Elimination,2020,1421872
+78M,Manhattan,M641,CITY AS SCHOOL (OLD 95),DSF0000900225,State of Good Repair - System Replacements - Exterior Masonry,2020,7628571
+78M,Manhattan,M641,CITY AS SCHOOL (OLD 95),DSF0000900224,State of Good Repair - System Replacements - Windows,2020,6325417
+78M,Manhattan,M645,OLD MANHATTAN VOC/TECH HS,DSF0000912089,State of Good Repair - System Replacements - Electrical Systems,2020,370000
+78Q,Queens,K420,FRANKLIN K. LANE HS,DSF0000912181,State of Good Repair - System Replacements - Toilets - Students,2020,1200000
+78Q,Queens,K420,FRANKLIN K. LANE HS,DSF0000912220,State of Good Repair - System Replacements - Electrical Systems,2020,1096002
+78Q,Queens,Q400,AUGUST MARTIN HS,DSF0000912182,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,742500
+78Q,Queens,Q485,GROVER CLEVELAND HS,DSF0000912215,State of Good Repair - System Replacements - Electrical Systems,2020,1045772
+78Q,Queens,Q505,HILLCREST HS,DSF0000912216,State of Good Repair - System Replacements - Electrical Systems,2020,870414
+78Q,Queens,Q600,QUEENS VOC HS,DSF0000904581,State of Good Repair - Building Upgrade - Flood Elimination,2021,1189619
+78Q,Queens,Q600,QUEENS VOC HS,DSF0000904583,State of Good Repair - System Replacements - Parapets,2021,6597650
+78R,Staten Island,R435,NEW DORP HS (NEW),DSF0000905875,State of Good Repair - System Replacements - Exterior Masonry,2021,10193684
+78R,Staten Island,R435,NEW DORP HS (NEW),DSF0000905874,State of Good Repair - System Replacements - Parapets,2021,3295802
+78R,Staten Island,R460,SUSAN E. WAGNER HS,DSF0000911932,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,500000
+78X,Bronx,X430,WALTON HS,DSF0000911931,Educational Enhancements - Educational Enhancements - Room Conversions / Partitioning,2020,750000
+78X,Bronx,X430,WALTON HS,DSF0000909505,State of Good Repair - System Replacements - Roofs,2020,6883178
+78X,Bronx,X430,WALTON HS,DSF0000909506,State of Good Repair - System Replacements - Parapets,2020,10889827
+78X,Bronx,X430,WALTON HS,DSF0000909503,State of Good Repair - Building Upgrade - Flood Elimination,2020,3135348
+78X,Bronx,X430,WALTON HS,DSF0000909507,State of Good Repair - System Replacements - Exterior Masonry,2020,10679999
+78X,Bronx,X435,THEODORE ROOSEVELT EDUCATIONAL CAMPUS,DSF0000912147,State of Good Repair - System Replacements - Electrical Systems,2020,630000
+78X,Bronx,X482,BRONX HS FOR THE VISUAL ARTS GYM ANNEX,DSF0000889569,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2020,18151065
+78X,Bronx,X839,BRONX HS FOR THE VISUAL ARTS,DSF0000909890,State of Good Repair - System Replacements - Exterior Masonry,2022,1717954
+78X,Bronx,X839,BRONX HS FOR THE VISUAL ARTS,DSF0000909889,State of Good Repair - System Replacements - Parapets,2022,1307012
+78X,Bronx,X839,BRONX HS FOR THE VISUAL ARTS,DSF0000909888,State of Good Repair - System Replacements - Roofs,2022,2455468
+78X,Bronx,X963,CROTONA ACADEMY TRANSPORTABLE,DSF0000821659,State of Good Repair - Rehabilitation of Physical Education Facilities - Playground Redevelopment,2020,4125209
