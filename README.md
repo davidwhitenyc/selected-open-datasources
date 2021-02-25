@@ -294,7 +294,7 @@ For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https
 
 ## Catalogue Number: MSM-DS23b
 
-**Dataset File Name:** MSM-DS23-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio w/ Community School District names
+**Dataset File Name:** MSM-DS23b-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio w/ Community School District names
 
 **Dataset Description:** Data can be used to compare Pupil-to-Teacher ratios by school. To meet the requirements of New York City Charter Section 522(c-f).
 
