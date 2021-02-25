@@ -292,6 +292,16 @@ For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https
 
 **Link to Original Source:** https://data.cityofnewyork.us/Education/2018-2019-Class-Size-Pupil-to-Teacher-Ratio/axb2-9jkb
 
+## Catalogue Number: MSM-DS23b
+
+**Dataset File Name:** MSM-DS23-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio w/ Community School District names
+
+**Dataset Description:** Data can be used to compare Pupil-to-Teacher ratios by school. To meet the requirements of New York City Charter Section 522(c-f).
+
+**Publisher:** City of New York
+
+**Link to Original Source:** https://data.cityofnewyork.us/Education/2018-2019-Class-Size-Pupil-to-Teacher-Ratio/axb2-9jkb
+
 
 
 ## Catalogue Number: MSM-DS24
