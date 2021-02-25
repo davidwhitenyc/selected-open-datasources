@@ -1,6 +1,6 @@
 # Selected Open Data Sources - MSM Design
 
-The following are open data files that I have collected and organized for use in my data analysis and visualization projects.
+This repository houses open data files that I have collected and organized for use in my data analysis and visualization projects.
 
 For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
 
