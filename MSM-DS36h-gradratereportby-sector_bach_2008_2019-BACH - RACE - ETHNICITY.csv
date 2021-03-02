@@ -1,0 +1,404 @@
+SECTOR_NAME,DATA YEAR,ENTRY_COHORT,GROUP,SUBGROUP,TOTAL_COHORT,ASSOC EARNED < 2 YEARS,ASSOC EARNED IN 2 YEARS,ASSOC EARNED IN 3 YEARS,ASSOC EARNED IN 4 YEARS,ASSOC EARNED IN 5 YEARS,ASSOC EARNED IN 6 YEARS,BACH EARNED IN 4 YEARS,BACH EARNED IN 5 YEARS,BACH EARNED IN 6 YEARS,PERCENT STILL ENROLLED,PERCENT TRANSFERRED OUT,IPEDS EXCLUSIONS,OTHER EXCLUSIONS
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Hispanic,1383,0.00%,0.00%,0.14%,0.00%,0.07%,0.00%,35.57%,53.43%,56.62%,1.08%,13.16%,0.00%,28.92%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Hispanic,1459,0.00%,0.07%,0.14%,0.14%,0.00%,0.00%,34.96%,51.27%,56.07%,1.99%,17.75%,0.00%,23.92%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Hispanic,1639,0.00%,0.06%,0.06%,0.00%,0.06%,0.00%,36.55%,54.85%,58.45%,1.65%,15.38%,0.00%,24.41%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Hispanic,1656,0.00%,0.06%,0.18%,0.00%,0.00%,0.00%,39.92%,54.95%,58.51%,2.17%,15.64%,0.00%,23.49%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Hispanic,1741,0.00%,0.00%,0.17%,0.06%,0.06%,0.11%,36.82%,54.39%,57.73%,1.61%,13.67%,0.00%,26.59%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Hispanic,1781,0.00%,0.22%,0.28%,0.06%,0.00%,0.00%,40.37%,55.81%,59.01%,1.80%,15.50%,0.00%,23.36%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Hispanic,1906,0.00%,0.00%,0.05%,0.16%,0.00%,0.05%,40.35%,56.30%,58.87%,1.84%,28.44%,0.00%,10.60%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Hispanic,2374,0.00%,0.04%,0.13%,0.04%,0.00%,0.00%,47.14%,62.34%,65.25%,0.93%,23.63%,0.00%,10.03%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Hispanic,2536,0.00%,0.04%,0.04%,0.00%,0.00%,0.00%,46.55%,62.05%,64.06%,1.06%,25.55%,0.04%,9.27%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Hispanic,2739,0.00%,0.04%,0.11%,0.07%,0.00%,0.00%,47.24%,60.72%,63.49%,1.46%,25.45%,0.00%,9.42%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Hispanic,2978,0.00%,0.03%,0.10%,0.07%,0.03%,0.00%,48.54%,61.40%,64.16%,1.04%,26.02%,0.03%,8.56%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,38,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,89.47%,97.37%,97.37%,0.00%,0.00%,0.00%,2.63%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,57,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,87.72%,94.74%,96.49%,0.00%,0.00%,0.00%,3.51%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,145,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,48.97%,66.21%,66.90%,0.00%,21.38%,0.00%,11.72%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,529,0.00%,0.19%,0.19%,0.19%,0.19%,0.00%,47.83%,62.19%,64.84%,1.70%,23.25%,0.00%,9.64%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,607,0.00%,0.16%,0.33%,0.00%,0.00%,0.00%,45.30%,60.30%,61.94%,0.99%,24.22%,0.00%,12.52%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,628,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,47.93%,62.26%,64.17%,1.43%,25.48%,0.00%,8.92%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,643,0.00%,0.00%,0.47%,0.16%,0.00%,0.16%,52.96%,63.55%,64.95%,1.56%,22.86%,0.16%,9.80%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Nonresident Alien,606,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,35.15%,44.22%,45.87%,2.81%,1.16%,0.00%,50.17%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Nonresident Alien,602,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,47.34%,61.63%,65.61%,3.65%,6.64%,0.00%,24.09%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Nonresident Alien,682,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,47.65%,61.14%,65.40%,3.81%,3.96%,0.00%,26.83%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Nonresident Alien,852,0.00%,0.12%,0.12%,0.00%,0.00%,0.00%,46.36%,59.15%,62.21%,3.76%,5.63%,0.00%,28.29%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Nonresident Alien,922,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.11%,62.26%,67.14%,2.39%,5.31%,0.00%,25.16%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1047,0.00%,0.10%,0.10%,0.00%,0.00%,0.00%,50.43%,63.04%,68.39%,3.44%,4.01%,0.00%,24.07%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1147,0.00%,0.17%,0.44%,0.00%,0.00%,0.00%,54.05%,65.48%,70.01%,4.10%,8.63%,0.00%,16.83%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1193,0.00%,0.00%,0.08%,0.00%,0.00%,0.00%,53.31%,66.22%,70.83%,3.94%,8.21%,0.00%,16.93%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1135,0.00%,0.09%,0.09%,0.00%,0.00%,0.00%,52.47%,64.29%,70.11%,3.00%,7.14%,0.09%,19.65%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1357,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,57.70%,67.65%,71.92%,2.21%,7.96%,0.00%,17.91%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1379,0.00%,0.00%,0.07%,0.00%,0.00%,0.00%,54.76%,64.85%,69.79%,2.18%,6.89%,0.15%,21.03%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Black / African American,1494,0.00%,0.00%,0.00%,0.07%,0.00%,0.07%,33.27%,51.34%,56.02%,2.68%,12.05%,0.00%,29.12%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Black / African American,1529,0.00%,0.26%,0.39%,0.07%,0.07%,0.07%,35.58%,54.22%,58.08%,1.90%,14.78%,0.00%,24.66%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Black / African American,1797,0.00%,0.11%,0.22%,0.06%,0.00%,0.06%,34.45%,51.47%,55.76%,2.11%,15.25%,0.00%,26.54%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Black / African American,1757,0.00%,0.17%,0.34%,0.06%,0.06%,0.00%,36.54%,54.07%,57.94%,1.42%,15.03%,0.00%,25.16%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Black / African American,1856,0.00%,0.05%,0.11%,0.00%,0.05%,0.00%,36.06%,52.72%,56.17%,1.51%,16.16%,0.05%,25.97%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Black / African American,1550,0.00%,0.06%,0.13%,0.19%,0.19%,0.19%,38.90%,55.23%,60.06%,1.74%,14.71%,0.00%,23.29%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Black / African American,1616,0.00%,0.06%,0.31%,0.12%,0.12%,0.00%,37.83%,54.18%,58.14%,1.61%,26.24%,0.06%,13.43%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Black / African American,1663,0.06%,0.00%,0.12%,0.00%,0.00%,0.00%,42.75%,57.85%,60.97%,1.68%,24.89%,0.00%,12.27%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Black / African American,1942,0.00%,0.00%,0.31%,0.10%,0.10%,0.00%,43.56%,58.70%,60.81%,1.60%,26.00%,0.00%,11.07%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Black / African American,1993,0.00%,0.05%,0.15%,0.05%,0.00%,0.00%,47.52%,62.57%,65.58%,1.25%,22.13%,0.00%,10.84%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Black / African American,2225,0.00%,0.13%,0.18%,0.00%,0.00%,0.00%,47.03%,60.61%,62.68%,1.57%,25.57%,0.04%,9.98%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,79,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,26.58%,45.57%,53.16%,1.27%,22.78%,0.00%,22.78%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,83,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,24.10%,34.94%,37.35%,2.41%,26.51%,0.00%,33.73%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,108,0.00%,0.00%,0.93%,0.00%,0.00%,0.00%,34.26%,47.22%,50.93%,0.93%,22.22%,0.00%,25.00%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,111,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,32.43%,48.65%,51.35%,2.70%,21.62%,0.00%,24.32%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,103,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,33.01%,46.60%,48.54%,0.97%,24.27%,0.00%,26.21%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,93,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,31.18%,45.16%,50.54%,0.00%,23.66%,0.00%,25.81%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,92,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,28.26%,38.04%,41.30%,3.26%,33.70%,0.00%,21.74%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,61,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,36.07%,44.26%,47.54%,0.00%,29.51%,0.00%,22.95%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,52,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,38.46%,44.23%,44.23%,1.92%,44.23%,0.00%,9.62%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,61,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,45.90%,55.74%,60.66%,0.00%,22.95%,0.00%,16.39%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,66,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,42.42%,54.55%,54.55%,1.52%,25.76%,0.00%,18.18%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Asian,1889,0.00%,0.05%,0.11%,0.00%,0.00%,0.00%,49.92%,64.96%,68.13%,1.75%,12.55%,0.00%,17.47%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Asian,1882,0.00%,0.05%,0.11%,0.00%,0.00%,0.00%,49.04%,66.47%,69.61%,1.43%,11.96%,0.00%,16.90%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Asian,2210,0.05%,0.00%,0.05%,0.00%,0.00%,0.00%,51.22%,66.56%,70.63%,1.45%,11.36%,0.00%,16.47%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Asian,2051,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.61%,67.09%,69.77%,1.71%,10.92%,0.00%,17.60%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Asian,2076,0.00%,0.00%,0.05%,0.05%,0.05%,0.05%,50.87%,66.47%,69.61%,1.40%,10.21%,0.00%,18.74%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Asian,2154,0.00%,0.00%,0.05%,0.00%,0.00%,0.05%,53.97%,70.46%,73.76%,2.00%,18.34%,0.05%,5.80%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Asian,2180,0.00%,0.05%,0.05%,0.00%,0.00%,0.00%,59.59%,73.94%,76.65%,0.92%,16.33%,0.00%,6.06%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Asian,2391,0.00%,0.00%,0.04%,0.00%,0.00%,0.00%,59.37%,73.68%,76.15%,1.13%,18.40%,0.04%,4.27%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Asian,2462,0.00%,0.00%,0.00%,0.00%,0.00%,0.04%,59.67%,72.15%,74.88%,0.97%,19.78%,0.08%,4.31%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Asian,2690,0.00%,0.00%,0.07%,0.00%,0.00%,0.00%,60.68%,73.85%,76.19%,1.00%,18.25%,0.07%,4.46%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,1,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,100.00%,100.00%,100.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,9,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,11.11%,33.33%,44.44%,0.00%,33.33%,0.00%,22.22%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,20,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,35.00%,50.00%,50.00%,0.00%,30.00%,0.00%,20.00%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,32,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,46.88%,59.38%,62.50%,0.00%,34.38%,0.00%,3.13%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,22,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,36.36%,59.09%,63.64%,0.00%,27.27%,0.00%,9.09%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,22,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,54.55%,63.64%,63.64%,0.00%,31.82%,0.00%,4.55%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,White,17429,0.00%,0.14%,0.27%,0.04%,0.01%,0.02%,46.09%,60.74%,63.43%,1.11%,18.90%,0.01%,16.22%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,White,15766,0.00%,0.13%,0.30%,0.08%,0.03%,0.04%,46.26%,61.69%,64.26%,1.43%,20.79%,0.00%,13.08%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,White,15941,0.00%,0.16%,0.34%,0.04%,0.04%,0.01%,47.90%,62.45%,65.26%,1.23%,20.46%,0.00%,12.62%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,White,15938,0.00%,0.10%,0.21%,0.07%,0.01%,0.03%,48.15%,63.08%,65.59%,1.16%,20.46%,0.00%,12.47%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,White,15910,0.00%,0.11%,0.28%,0.08%,0.02%,0.00%,48.27%,62.73%,65.23%,1.31%,20.64%,0.02%,12.43%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,White,14619,0.00%,0.04%,0.09%,0.11%,0.14%,0.15%,50.02%,64.28%,66.51%,1.22%,19.40%,0.00%,12.72%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,White,16323,0.01%,0.09%,0.24%,0.07%,0.02%,0.01%,51.01%,65.42%,67.63%,1.08%,23.21%,0.04%,7.72%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,White,15778,0.01%,0.09%,0.17%,0.07%,0.02%,0.03%,54.12%,67.04%,68.99%,0.77%,22.61%,0.01%,7.33%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,White,15964,0.00%,0.13%,0.21%,0.04%,0.03%,0.02%,56.07%,67.68%,69.35%,0.75%,23.80%,0.02%,5.79%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,White,15701,0.01%,0.16%,0.24%,0.05%,0.01%,0.01%,57.72%,68.59%,70.49%,0.78%,22.87%,0.02%,5.55%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,White,15463,0.00%,0.18%,0.30%,0.05%,0.01%,0.01%,58.49%,69.26%,70.94%,0.69%,22.07%,0.03%,5.93%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,2028,0.00%,0.05%,0.05%,0.00%,0.00%,0.00%,52.07%,67.95%,70.71%,0.79%,11.69%,0.00%,16.77%
+SUNY,2008-09,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,1569,0.00%,0.00%,0.06%,0.00%,0.06%,0.00%,50.16%,65.90%,70.30%,0.96%,3.76%,0.00%,24.86%
+SUNY,2009-10,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,2271,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,44.30%,60.06%,63.67%,1.76%,18.54%,0.00%,16.03%
+SUNY,2010-11,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,2648,0.08%,0.08%,0.11%,0.00%,0.00%,0.00%,46.90%,61.10%,63.60%,1.62%,18.43%,0.00%,16.16%
+SUNY,2011-12,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,2947,0.00%,0.00%,0.00%,0.03%,0.00%,0.00%,49.34%,62.98%,65.29%,1.53%,16.76%,0.00%,16.39%
+SUNY,2012-13,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,3232,0.00%,0.03%,0.09%,0.06%,0.00%,0.00%,51.08%,64.63%,67.17%,0.99%,16.12%,0.00%,15.56%
+SUNY,2013-14,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,3379,0.00%,0.06%,0.12%,0.12%,0.12%,0.12%,51.76%,66.32%,69.16%,0.95%,15.27%,0.00%,14.50%
+SUNY,2014-15,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,2109,0.00%,0.05%,0.14%,0.14%,0.09%,0.05%,52.63%,65.31%,67.44%,1.33%,20.77%,0.09%,10.00%
+SUNY,2015-16,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,1649,0.00%,0.06%,0.06%,0.00%,0.00%,0.00%,56.98%,69.84%,71.48%,0.91%,21.16%,0.06%,6.37%
+SUNY,2016-17,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,1329,0.00%,0.08%,0.08%,0.00%,0.00%,0.00%,54.52%,68.00%,70.18%,0.83%,22.35%,0.08%,6.55%
+SUNY,2017-18,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,1480,0.00%,0.07%,0.07%,0.00%,0.00%,0.00%,57.43%,70.74%,73.18%,0.47%,20.81%,0.00%,5.47%
+SUNY,2018-19,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,1340,0.00%,0.00%,0.15%,0.00%,0.00%,0.00%,60.82%,72.99%,74.63%,0.30%,19.25%,0.00%,5.67%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Hispanic,2356,0.00%,0.00%,0.04%,0.17%,0.17%,0.13%,12.44%,27.97%,35.40%,8.70%,30.09%,0.00%,25.30%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Hispanic,2655,0.00%,0.00%,0.04%,0.04%,0.15%,0.00%,12.13%,28.93%,36.31%,8.25%,28.51%,0.00%,26.70%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Hispanic,2576,0.00%,0.00%,0.04%,0.00%,0.08%,0.12%,13.00%,31.09%,38.86%,8.58%,29.50%,0.00%,22.83%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Hispanic,2705,0.00%,0.00%,0.11%,0.11%,0.00%,0.15%,12.87%,32.64%,40.04%,8.65%,28.65%,0.00%,22.29%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Hispanic,2988,0.00%,0.00%,0.03%,0.10%,0.10%,0.03%,15.19%,33.13%,40.66%,7.40%,30.76%,0.00%,20.92%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Hispanic,3312,0.00%,0.00%,0.06%,0.09%,0.18%,0.06%,14.55%,33.18%,40.49%,8.30%,28.14%,0.00%,22.68%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Hispanic,3019,0.00%,0.00%,0.17%,0.10%,0.20%,0.10%,14.44%,35.48%,42.33%,6.36%,29.08%,0.00%,21.66%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Hispanic,2853,0.00%,0.00%,0.04%,0.04%,0.14%,0.00%,15.67%,36.21%,44.09%,7.12%,18.51%,0.00%,30.07%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Hispanic,2705,0.00%,0.04%,0.26%,0.00%,0.07%,0.04%,16.78%,38.67%,45.47%,7.39%,26.21%,0.00%,20.55%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Hispanic,2636,0.00%,0.00%,0.11%,0.04%,0.00%,0.04%,18.44%,38.28%,44.58%,6.71%,26.71%,0.00%,21.81%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Hispanic,2597,0.00%,0.08%,0.23%,0.15%,0.15%,0.04%,20.45%,41.70%,48.09%,5.89%,25.34%,0.00%,20.10%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Nonresident Alien,570,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,19.12%,39.12%,45.61%,9.82%,21.58%,0.00%,22.98%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Nonresident Alien,601,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,18.47%,38.44%,46.26%,8.99%,18.14%,0.00%,26.62%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Nonresident Alien,776,0.00%,0.13%,0.13%,0.00%,0.00%,0.13%,18.94%,42.01%,50.77%,6.96%,19.46%,0.00%,22.55%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Nonresident Alien,807,0.00%,0.00%,0.00%,0.25%,0.00%,0.12%,18.71%,35.81%,43.99%,9.67%,21.31%,0.00%,24.66%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Nonresident Alien,781,0.00%,0.00%,0.13%,0.13%,0.26%,0.00%,19.72%,38.03%,46.22%,9.09%,19.08%,0.00%,25.10%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Nonresident Alien,661,0.00%,0.00%,0.15%,0.15%,0.15%,0.00%,16.79%,38.28%,45.84%,5.60%,20.27%,0.00%,27.84%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Nonresident Alien,654,0.00%,0.00%,0.15%,0.00%,0.00%,0.15%,22.17%,39.91%,46.79%,6.73%,19.42%,0.00%,26.76%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Nonresident Alien,574,0.00%,0.00%,0.17%,0.00%,0.00%,0.00%,20.56%,38.50%,45.12%,5.40%,13.41%,0.00%,35.89%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Nonresident Alien,575,0.00%,0.00%,0.00%,0.17%,0.00%,0.17%,18.96%,36.17%,43.30%,5.74%,21.39%,0.00%,29.22%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Nonresident Alien,577,0.00%,0.00%,0.17%,0.35%,0.00%,0.00%,20.97%,41.59%,46.97%,6.59%,20.45%,0.00%,25.48%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Nonresident Alien,588,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,22.28%,42.01%,47.28%,5.95%,24.49%,0.00%,22.28%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Black / African American,1839,0.00%,0.00%,0.11%,0.05%,0.16%,0.22%,10.66%,27.35%,33.22%,8.70%,31.43%,0.00%,26.10%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Black / African American,1915,0.00%,0.00%,0.10%,0.21%,0.05%,0.10%,13.47%,27.68%,33.58%,7.36%,33.42%,0.00%,25.17%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Black / African American,1848,0.00%,0.05%,0.11%,0.05%,0.16%,0.11%,11.42%,28.03%,36.15%,8.33%,34.47%,0.00%,20.62%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Black / African American,1921,0.05%,0.00%,0.05%,0.16%,0.16%,0.10%,13.85%,30.56%,38.89%,6.98%,30.77%,0.00%,22.85%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Black / African American,2202,0.00%,0.00%,0.05%,0.09%,0.14%,0.23%,13.94%,31.97%,39.55%,7.36%,31.97%,0.00%,20.62%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Black / African American,2263,0.13%,0.00%,0.18%,0.13%,0.18%,0.09%,15.07%,31.90%,39.55%,7.95%,30.62%,0.00%,21.17%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Black / African American,1955,0.05%,0.00%,0.00%,0.10%,0.10%,0.20%,14.02%,32.07%,40.26%,6.50%,31.51%,0.00%,21.28%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Black / African American,1750,0.00%,0.00%,0.00%,0.17%,0.00%,0.06%,14.46%,32.57%,39.77%,7.31%,17.54%,0.00%,35.14%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Black / African American,1664,0.00%,0.06%,0.12%,0.42%,0.30%,0.00%,17.49%,35.34%,41.95%,6.43%,27.94%,0.00%,22.84%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Black / African American,1549,0.00%,0.00%,0.26%,0.13%,0.00%,0.06%,17.62%,36.41%,43.06%,6.78%,28.66%,0.00%,21.05%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Black / African American,1684,0.00%,0.06%,0.18%,0.30%,0.24%,0.18%,18.35%,38.42%,44.77%,5.76%,28.92%,0.00%,19.66%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,11,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,27.27%,45.45%,54.55%,0.00%,18.18%,0.00%,27.27%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,20,0.00%,0.00%,0.00%,5.00%,0.00%,0.00%,15.00%,25.00%,30.00%,5.00%,35.00%,0.00%,25.00%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,11,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,27.27%,36.36%,36.36%,9.09%,27.27%,0.00%,27.27%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,13,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,23.08%,38.46%,46.15%,7.69%,15.38%,0.00%,30.77%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,14,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,21.43%,35.71%,42.86%,0.00%,35.71%,0.00%,21.43%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,28,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,28.57%,46.43%,53.57%,14.29%,17.86%,0.00%,14.29%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,26,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,15.38%,34.62%,50.00%,0.00%,23.08%,0.00%,26.92%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,27,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,14.81%,37.04%,44.44%,7.41%,18.52%,0.00%,29.63%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,38,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,21.05%,47.37%,55.26%,2.63%,21.05%,0.00%,21.05%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,32,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,25.00%,46.88%,53.13%,0.00%,31.25%,0.00%,15.63%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,36,0.00%,0.00%,0.00%,0.00%,0.00%,2.78%,22.22%,41.67%,50.00%,11.11%,19.44%,0.00%,16.67%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Asian,2127,0.00%,0.00%,0.00%,0.05%,0.00%,0.00%,24.82%,46.64%,54.21%,5.97%,26.23%,0.00%,13.54%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Asian,2266,0.04%,0.00%,0.00%,0.00%,0.00%,0.04%,23.43%,45.94%,53.84%,5.74%,28.11%,0.00%,12.22%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Asian,2511,0.00%,0.00%,0.00%,0.04%,0.00%,0.00%,24.65%,46.83%,54.52%,4.82%,27.20%,0.00%,13.42%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Asian,2729,0.00%,0.00%,0.04%,0.00%,0.07%,0.00%,23.74%,47.09%,55.29%,5.75%,26.13%,0.00%,12.72%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Asian,2885,0.00%,0.00%,0.00%,0.03%,0.03%,0.00%,24.12%,47.76%,53.76%,5.65%,25.93%,0.00%,14.59%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Asian,2991,0.00%,0.00%,0.00%,0.00%,0.03%,0.00%,22.47%,45.97%,53.13%,5.65%,18.12%,0.00%,23.07%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Asian,3261,0.00%,0.03%,0.06%,0.03%,0.09%,0.06%,24.13%,47.93%,55.66%,5.15%,25.54%,0.00%,13.40%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Asian,3351,0.00%,0.03%,0.09%,0.15%,0.00%,0.03%,23.96%,49.30%,56.31%,4.39%,25.66%,0.00%,13.37%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Asian,3489,0.00%,0.06%,0.14%,0.14%,0.06%,0.03%,25.25%,49.50%,56.55%,5.27%,26.51%,0.00%,11.29%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,White,3336,0.00%,0.00%,0.15%,0.18%,0.06%,0.06%,26.41%,44.15%,50.48%,4.62%,28.06%,0.00%,16.40%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,White,3287,0.00%,0.09%,0.21%,0.15%,0.06%,0.15%,27.81%,46.85%,53.09%,5.08%,25.49%,0.00%,15.76%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,White,3331,0.00%,0.00%,0.09%,0.03%,0.12%,0.12%,26.75%,43.50%,50.14%,5.10%,29.09%,0.00%,15.31%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,White,3452,0.00%,0.00%,0.14%,0.12%,0.14%,0.06%,26.97%,45.60%,52.35%,5.76%,27.40%,0.00%,14.02%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,White,3545,0.00%,0.03%,0.17%,0.08%,0.00%,0.00%,28.07%,46.71%,53.71%,4.91%,26.97%,0.00%,14.16%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,White,3128,0.00%,0.00%,0.03%,0.00%,0.00%,0.00%,28.71%,48.56%,54.28%,4.19%,26.57%,0.00%,14.93%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,White,3686,0.00%,0.00%,0.14%,0.16%,0.11%,0.16%,28.57%,48.18%,53.85%,4.37%,25.09%,0.00%,16.12%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,White,3560,0.00%,0.03%,0.17%,0.11%,0.08%,0.17%,30.17%,48.88%,54.13%,4.30%,12.53%,0.00%,28.51%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,White,3553,0.00%,0.06%,0.11%,0.03%,0.06%,0.06%,30.20%,50.77%,55.81%,4.78%,25.11%,0.00%,14.04%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,White,3496,0.00%,0.06%,0.14%,0.09%,0.14%,0.20%,33.09%,52.12%,57.29%,3.92%,24.23%,0.00%,13.99%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,White,3418,0.00%,0.15%,0.47%,0.00%,0.06%,0.09%,34.00%,53.80%,58.31%,3.63%,24.28%,0.00%,13.17%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,1818,0.00%,0.17%,0.17%,0.06%,0.00%,0.06%,20.35%,42.02%,49.78%,6.66%,28.27%,0.00%,15.02%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,2095,0.00%,0.05%,0.05%,0.05%,0.10%,0.00%,21.86%,42.63%,50.41%,5.68%,27.73%,0.00%,15.99%
+CUNY,2008-09,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2009-10,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2010-11,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2011-12,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2012-13,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2013-14,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2014-15,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2015-16,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2016-17,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2017-18,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+CUNY,2018-19,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Hispanic,4065,0.00%,0.89%,0.99%,0.10%,0.12%,0.00%,41.91%,54.08%,56.43%,1.67%,6.81%,0.52%,33.65%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Hispanic,4191,0.00%,0.50%,1.20%,0.14%,0.00%,0.05%,42.22%,54.07%,56.68%,1.53%,6.92%,0.31%,32.95%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Hispanic,4443,0.02%,0.07%,0.16%,0.02%,0.02%,0.00%,41.88%,55.21%,58.12%,1.37%,8.10%,0.16%,32.12%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Hispanic,4606,0.00%,0.04%,1.02%,0.02%,0.00%,0.02%,44.22%,56.06%,58.76%,1.87%,8.01%,0.28%,30.18%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Hispanic,4905,0.00%,0.06%,0.10%,1.16%,0.00%,0.02%,42.71%,54.48%,57.08%,1.10%,8.01%,0.39%,32.35%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Hispanic,4357,0.00%,0.00%,0.07%,0.02%,0.02%,0.00%,45.99%,58.17%,60.40%,1.31%,11.04%,0.14%,26.97%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Hispanic,5446,0.11%,0.00%,0.02%,0.02%,0.04%,0.04%,44.88%,57.97%,60.85%,1.40%,11.53%,0.09%,25.96%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Hispanic,5416,0.09%,0.02%,0.04%,0.04%,0.04%,0.06%,46.48%,58.88%,61.42%,1.35%,16.69%,0.13%,20.24%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Hispanic,6268,0.00%,0.02%,0.08%,0.00%,0.02%,0.00%,48.07%,58.54%,61.00%,1.18%,16.07%,0.03%,20.95%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Hispanic,5930,0.00%,0.03%,0.08%,0.05%,0.03%,0.00%,50.79%,61.45%,63.73%,0.91%,17.98%,0.27%,17.12%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Hispanic,5597,0.00%,0.00%,0.05%,0.04%,0.02%,0.02%,54.24%,64.27%,66.68%,0.71%,14.04%,0.20%,18.37%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,323,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,73.68%,80.50%,81.73%,0.31%,4.64%,0.00%,13.31%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,361,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,69.25%,78.95%,81.99%,1.66%,2.22%,0.00%,14.13%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,493,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,69.57%,77.28%,78.50%,1.42%,5.07%,0.00%,15.01%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,517,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,69.44%,77.76%,80.08%,0.39%,4.64%,0.00%,14.51%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,536,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,63.62%,73.32%,75.37%,1.12%,4.85%,0.00%,18.66%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,1297,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,63.14%,72.49%,74.50%,0.62%,10.10%,0.23%,14.73%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,1382,0.00%,0.00%,0.07%,0.00%,0.00%,0.00%,57.68%,67.46%,69.49%,0.58%,11.87%,0.14%,18.23%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,1466,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,56.66%,65.73%,68.12%,0.68%,15.96%,0.07%,15.21%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,1504,0.00%,0.07%,0.07%,0.00%,0.00%,0.00%,58.91%,67.91%,70.18%,0.53%,12.70%,0.33%,16.42%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1661,0.00%,0.36%,0.42%,0.00%,0.00%,0.00%,60.06%,68.58%,71.24%,3.55%,3.61%,0.36%,21.07%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1627,0.00%,0.43%,0.49%,0.00%,0.00%,0.00%,57.69%,67.47%,70.85%,1.84%,1.23%,0.06%,25.38%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1828,0.00%,0.00%,0.05%,0.05%,0.00%,0.00%,60.78%,70.54%,74.60%,2.57%,2.35%,0.27%,20.30%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Nonresident Alien,1938,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,60.28%,71.72%,76.75%,2.12%,2.37%,0.36%,18.68%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Nonresident Alien,2311,0.00%,0.22%,0.39%,0.17%,0.00%,0.00%,58.01%,68.97%,73.46%,2.47%,2.90%,0.56%,20.47%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Nonresident Alien,2158,0.00%,0.00%,0.09%,0.00%,0.00%,0.00%,61.41%,71.79%,75.33%,2.36%,2.83%,0.46%,19.28%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Nonresident Alien,2671,0.00%,0.00%,0.04%,0.00%,0.00%,0.04%,61.10%,71.62%,76.00%,2.13%,3.03%,1.72%,18.35%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Nonresident Alien,2534,0.08%,0.28%,0.28%,0.00%,0.00%,0.00%,60.91%,73.23%,78.14%,1.62%,3.87%,1.07%,15.79%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Nonresident Alien,3271,0.00%,0.43%,0.68%,0.00%,0.00%,0.00%,60.15%,71.04%,76.22%,1.47%,3.55%,0.89%,17.18%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Nonresident Alien,3460,0.00%,0.55%,0.67%,0.00%,0.00%,0.00%,63.81%,73.63%,77.88%,1.50%,3.12%,0.58%,16.71%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Nonresident Alien,3650,0.00%,0.30%,0.30%,0.00%,0.00%,0.00%,63.63%,73.86%,78.03%,1.56%,2.14%,0.63%,17.84%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Black / African American,4200,0.02%,0.19%,0.26%,0.02%,0.00%,0.02%,33.64%,45.81%,48.81%,1.93%,8.50%,0.00%,40.43%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Black / African American,4307,0.00%,0.42%,0.75%,0.12%,0.02%,0.00%,32.70%,43.79%,46.88%,2.21%,9.82%,0.74%,38.98%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Black / African American,4557,0.00%,0.04%,0.13%,0.04%,0.02%,0.00%,32.72%,44.03%,46.54%,1.69%,9.44%,0.46%,41.89%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Black / African American,4247,0.00%,0.02%,0.19%,0.00%,0.02%,0.00%,31.55%,43.60%,47.30%,1.77%,11.51%,0.14%,39.13%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Black / African American,4479,0.00%,0.09%,0.13%,0.22%,0.04%,0.02%,32.86%,44.48%,47.10%,1.43%,10.65%,0.31%,40.23%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Black / African American,3665,0.00%,0.03%,0.11%,0.08%,0.03%,0.03%,33.93%,45.75%,48.57%,2.16%,13.02%,0.11%,35.01%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Black / African American,4770,0.04%,0.00%,0.00%,0.02%,0.13%,0.00%,35.03%,47.81%,50.68%,1.40%,14.74%,0.06%,32.96%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Black / African American,4131,0.15%,0.00%,0.00%,0.07%,0.02%,0.00%,33.96%,45.45%,48.69%,1.45%,20.96%,0.07%,28.61%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Black / African American,4889,0.00%,0.06%,0.10%,0.10%,0.00%,0.00%,37.54%,48.44%,51.29%,1.15%,18.92%,0.06%,28.19%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Black / African American,4012,0.00%,0.03%,0.08%,0.02%,0.02%,0.00%,40.12%,51.70%,54.63%,1.15%,20.34%,0.35%,23.60%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Black / African American,3770,0.00%,0.03%,0.13%,0.05%,0.00%,0.00%,44.23%,56.00%,58.90%,0.80%,14.91%,0.16%,25.15%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,174,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,44.83%,51.72%,55.17%,1.15%,9.20%,0.00%,34.48%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,186,0.00%,0.54%,0.54%,0.00%,0.00%,0.00%,45.70%,50.54%,54.84%,0.54%,7.53%,0.00%,36.02%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,168,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.60%,57.14%,60.12%,0.60%,5.95%,0.00%,33.33%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,228,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,45.18%,55.70%,58.77%,0.88%,7.02%,0.00%,33.33%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,210,0.00%,0.48%,0.48%,0.00%,0.00%,0.00%,40.95%,53.33%,55.71%,0.48%,11.43%,0.00%,31.90%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,193,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,44.04%,52.85%,55.44%,3.63%,9.33%,0.00%,29.53%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,222,0.00%,0.00%,0.00%,0.45%,0.00%,0.00%,48.20%,56.76%,59.46%,0.90%,10.81%,0.00%,28.38%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,178,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,44.38%,55.06%,57.30%,0.00%,17.42%,0.00%,25.28%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,194,0.00%,0.00%,0.00%,0.52%,0.00%,0.00%,40.72%,50.52%,51.55%,2.06%,10.82%,0.00%,36.08%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,164,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,39.88%,50.31%,51.53%,2.44%,19.51%,0.61%,26.22%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,160,0.00%,0.63%,0.63%,0.00%,0.00%,0.00%,42.50%,51.25%,54.38%,1.88%,15.63%,0.00%,27.50%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Asian,4265,0.00%,0.00%,0.02%,0.07%,0.00%,0.00%,60.37%,70.31%,75.54%,1.34%,3.73%,0.02%,19.30%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Asian,4443,0.00%,0.05%,0.07%,0.00%,0.00%,0.00%,62.27%,72.24%,77.89%,1.08%,4.43%,0.02%,16.52%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Asian,4596,0.00%,0.02%,0.02%,0.00%,0.04%,0.00%,61.61%,71.95%,76.93%,1.11%,3.72%,0.02%,18.17%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Asian,3686,0.00%,0.00%,0.00%,0.00%,0.05%,0.00%,65.91%,76.09%,78.51%,1.09%,5.91%,0.14%,14.41%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Asian,4645,0.19%,0.02%,0.02%,0.00%,0.00%,0.02%,61.15%,71.45%,76.40%,1.23%,7.10%,0.30%,14.96%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Asian,3877,0.28%,0.03%,0.03%,0.05%,0.00%,0.00%,66.05%,76.81%,79.27%,1.26%,9.85%,0.23%,9.21%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Asian,4800,0.00%,0.00%,0.00%,0.02%,0.00%,0.00%,61.37%,71.04%,77.05%,1.63%,9.42%,0.06%,11.65%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Asian,4181,0.00%,0.02%,0.07%,0.00%,0.00%,0.00%,67.05%,76.94%,80.05%,0.67%,10.50%,0.12%,8.68%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Asian,4377,0.00%,0.02%,0.02%,0.02%,0.05%,0.00%,64.46%,74.28%,79.77%,0.85%,7.54%,0.16%,11.72%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,38,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,57.89%,81.58%,81.58%,0.00%,13.16%,0.00%,5.26%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,45,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,60.00%,71.11%,75.56%,2.22%,4.44%,0.00%,17.78%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,44,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,65.91%,77.27%,77.27%,0.00%,9.09%,0.00%,13.64%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,47,0.00%,0.00%,0.00%,2.13%,0.00%,0.00%,61.70%,78.72%,78.72%,0.00%,2.13%,0.00%,17.02%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,46,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.00%,65.22%,65.22%,0.00%,21.74%,0.00%,13.04%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,59,0.00%,0.00%,1.69%,0.00%,0.00%,0.00%,49.15%,61.02%,71.19%,1.69%,10.17%,0.00%,15.25%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,71,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,56.34%,63.38%,69.01%,1.41%,16.90%,0.00%,12.68%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,60,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,44.07%,50.85%,52.54%,1.67%,30.00%,1.67%,15.00%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,78,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,56.41%,75.64%,76.92%,1.28%,5.13%,0.00%,16.67%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,White,33271,0.04%,0.42%,0.51%,0.10%,0.02%,0.00%,61.21%,70.75%,72.78%,0.93%,4.75%,0.35%,20.78%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,White,33584,0.00%,0.52%,0.62%,0.02%,0.01%,0.01%,60.36%,70.39%,72.55%,0.71%,5.07%,0.34%,20.51%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,White,35550,0.00%,0.05%,0.10%,0.02%,0.01%,0.00%,60.39%,69.82%,71.91%,1.03%,5.29%,0.70%,21.44%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,White,34560,0.00%,0.06%,0.09%,0.01%,0.01%,0.01%,60.79%,70.59%,72.75%,0.72%,6.61%,0.27%,19.73%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,White,34575,0.01%,0.05%,0.09%,0.02%,0.01%,0.00%,60.87%,70.42%,72.44%,0.65%,6.38%,0.30%,20.32%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,White,30857,0.00%,0.03%,0.06%,0.02%,0.01%,0.00%,60.97%,70.69%,72.47%,0.66%,8.48%,0.50%,17.35%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,White,32627,0.01%,0.04%,0.07%,0.02%,0.02%,0.01%,61.92%,71.34%,73.32%,0.68%,8.90%,0.37%,16.88%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,White,29389,0.01%,0.05%,0.08%,0.05%,0.00%,0.00%,63.46%,72.18%,73.75%,0.56%,11.85%,0.14%,13.66%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,White,30853,0.00%,0.03%,0.06%,0.02%,0.01%,0.00%,63.21%,71.98%,73.97%,0.53%,12.25%,0.13%,12.77%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,White,28582,0.00%,0.05%,0.10%,0.01%,0.01%,0.01%,64.63%,73.45%,75.18%,0.53%,12.56%,0.09%,11.57%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,White,26592,0.00%,0.02%,0.07%,0.02%,0.00%,0.00%,65.81%,74.74%,76.51%,0.53%,9.98%,0.14%,12.86%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,3903,0.00%,1.10%,1.23%,0.08%,0.05%,0.00%,59.38%,68.90%,73.67%,1.51%,3.77%,0.15%,19.65%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,4204,0.00%,1.31%,1.48%,0.07%,0.00%,0.00%,60.53%,69.63%,74.72%,1.36%,3.76%,0.07%,18.43%
+INDEPENDENT,2008-09,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,5481,0.00%,0.84%,0.97%,0.11%,0.05%,0.00%,54.27%,63.30%,65.31%,1.24%,7.39%,0.02%,24.92%
+INDEPENDENT,2009-10,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,6822,0.00%,0.79%,0.88%,0.01%,0.01%,0.00%,52.04%,61.80%,64.49%,0.85%,6.74%,0.26%,26.15%
+INDEPENDENT,2010-11,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4745,0.02%,0.02%,0.11%,0.00%,0.00%,0.00%,47.73%,58.30%,60.86%,1.52%,7.54%,0.44%,29.78%
+INDEPENDENT,2011-12,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4839,0.00%,0.00%,0.06%,0.00%,0.00%,0.02%,48.58%,57.61%,60.24%,1.34%,7.38%,0.17%,30.89%
+INDEPENDENT,2012-13,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,5237,0.00%,0.02%,0.10%,0.00%,0.00%,0.00%,46.42%,56.16%,58.34%,1.57%,10.96%,0.13%,28.99%
+INDEPENDENT,2013-14,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4730,0.00%,0.02%,0.02%,0.00%,0.00%,0.00%,47.20%,56.32%,57.93%,0.82%,15.05%,0.11%,24.78%
+INDEPENDENT,2014-15,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4955,0.02%,0.04%,0.08%,0.02%,0.00%,0.00%,47.49%,57.66%,59.86%,0.83%,14.57%,0.10%,24.58%
+INDEPENDENT,2015-16,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4333,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,46.30%,59.22%,62.11%,0.83%,18.37%,0.12%,18.65%
+INDEPENDENT,2016-17,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,4366,0.00%,0.05%,0.16%,0.02%,0.00%,0.00%,52.61%,62.36%,65.61%,1.17%,14.41%,0.09%,18.48%
+INDEPENDENT,2017-18,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,3891,0.00%,0.03%,0.05%,0.00%,0.00%,0.00%,54.50%,63.17%,65.30%,0.75%,19.51%,0.08%,14.37%
+INDEPENDENT,2018-19,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,3210,0.00%,0.00%,0.03%,0.03%,0.00%,0.00%,60.24%,68.70%,70.22%,0.65%,15.83%,0.19%,13.18%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Hispanic,409,0.00%,0.74%,1.23%,0.00%,0.00%,0.00%,37.01%,41.91%,45.10%,3.67%,5.87%,0.24%,44.01%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Hispanic,440,0.00%,0.68%,1.36%,0.00%,0.00%,0.23%,39.09%,46.59%,48.18%,3.41%,4.09%,0.00%,42.73%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Hispanic,486,0.00%,0.82%,1.03%,0.00%,0.00%,0.21%,31.48%,38.89%,43.42%,3.29%,4.32%,0.00%,47.74%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Hispanic,474,0.00%,0.21%,0.42%,0.00%,0.00%,0.00%,37.55%,43.46%,45.99%,1.90%,9.70%,0.00%,41.98%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Hispanic,484,0.00%,0.41%,0.41%,0.00%,0.21%,0.21%,36.93%,43.57%,45.64%,1.65%,3.10%,0.41%,48.55%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Hispanic,557,0.00%,0.36%,0.72%,0.00%,0.36%,0.36%,37.16%,42.19%,45.06%,0.90%,7.18%,0.00%,45.42%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Hispanic,711,0.00%,4.36%,6.19%,0.14%,0.14%,0.14%,33.05%,38.40%,41.77%,1.55%,3.94%,0.00%,46.13%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Hispanic,695,0.00%,0.86%,1.58%,0.29%,0.14%,0.14%,31.94%,37.84%,40.00%,2.59%,7.05%,0.00%,48.20%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Hispanic,534,0.00%,1.87%,2.62%,0.00%,0.37%,0.19%,41.20%,47.19%,49.25%,1.12%,19.85%,0.00%,26.59%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Hispanic,410,0.00%,0.74%,1.96%,0.24%,0.00%,0.00%,44.12%,50.00%,51.72%,1.46%,23.17%,0.49%,21.22%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Hispanic,400,0.00%,3.50%,3.75%,1.25%,0.00%,0.00%,43.75%,48.50%,49.75%,0.50%,19.00%,0.00%,25.75%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,2,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,100.00%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,6,0.00%,0.00%,0.00%,16.67%,0.00%,0.00%,33.33%,33.33%,33.33%,0.00%,0.00%,0.00%,50.00%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,5,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,40.00%,60.00%,60.00%,0.00%,20.00%,0.00%,20.00%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,11,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,54.55%,54.55%,63.64%,0.00%,18.18%,0.00%,18.18%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,2,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,100.00%,100.00%,100.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Non-Hispanic and 2 or more races,13,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,30.77%,38.46%,38.46%,0.00%,0.00%,0.00%,61.54%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Nonresident Alien,55,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,76.36%,85.45%,89.09%,0.00%,1.82%,0.00%,9.09%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Nonresident Alien,62,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,72.58%,80.65%,80.65%,1.61%,1.61%,0.00%,16.13%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Nonresident Alien,143,0.00%,2.80%,2.80%,0.00%,0.00%,0.00%,48.95%,52.45%,53.85%,2.80%,0.00%,0.00%,40.56%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Nonresident Alien,156,0.00%,0.00%,1.92%,0.00%,0.00%,0.00%,55.77%,59.62%,64.74%,1.92%,3.21%,0.00%,28.21%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Nonresident Alien,156,0.00%,0.64%,0.64%,0.00%,0.00%,0.00%,48.08%,57.05%,62.18%,2.56%,0.64%,0.00%,33.97%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Nonresident Alien,158,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,56.96%,66.46%,71.52%,1.90%,2.53%,0.00%,24.05%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Nonresident Alien,172,0.00%,1.16%,1.16%,0.00%,0.00%,0.00%,52.33%,61.63%,66.28%,4.07%,1.16%,0.00%,27.33%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Nonresident Alien,190,0.00%,0.00%,0.53%,0.00%,0.53%,0.00%,47.89%,62.63%,64.74%,3.16%,0.53%,0.00%,30.53%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Nonresident Alien,274,0.00%,0.36%,1.09%,0.00%,0.36%,0.00%,51.46%,59.12%,60.95%,2.92%,10.95%,0.00%,23.72%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Nonresident Alien,259,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,55.60%,65.25%,69.11%,1.16%,11.20%,0.00%,18.53%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Nonresident Alien,316,0.00%,0.63%,0.63%,0.00%,0.00%,0.00%,47.47%,59.18%,62.34%,1.90%,10.76%,0.00%,24.37%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Black / African American,466,0.00%,1.29%,1.50%,0.64%,0.00%,0.00%,40.77%,47.64%,49.57%,3.00%,3.22%,0.00%,42.06%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Black / African American,491,0.00%,1.43%,2.04%,0.61%,0.00%,0.00%,39.31%,44.81%,47.25%,4.28%,2.44%,0.00%,43.38%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Black / African American,541,0.00%,0.37%,0.55%,0.18%,0.37%,0.00%,32.16%,37.52%,41.59%,4.81%,3.88%,0.00%,48.61%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Black / African American,473,0.00%,0.42%,0.42%,0.21%,0.00%,0.00%,35.31%,41.65%,43.97%,2.54%,11.21%,0.00%,41.65%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Black / African American,523,0.00%,0.96%,1.53%,0.00%,0.00%,0.00%,37.86%,45.12%,47.99%,0.76%,0.76%,0.00%,48.95%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Black / African American,585,0.00%,0.00%,0.51%,0.34%,0.00%,0.34%,34.02%,40.34%,44.10%,1.03%,5.98%,0.00%,47.69%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Black / African American,690,0.00%,4.78%,7.39%,0.43%,0.14%,0.14%,27.68%,35.51%,37.83%,0.72%,6.52%,0.00%,46.81%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Black / African American,744,0.00%,0.81%,1.21%,0.67%,0.13%,0.00%,30.65%,37.37%,39.78%,1.21%,6.85%,0.00%,50.13%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Black / African American,548,0.00%,1.82%,2.19%,0.18%,0.36%,0.18%,35.95%,40.51%,43.07%,1.28%,23.54%,0.00%,29.20%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Black / African American,443,0.00%,0.90%,1.13%,0.68%,0.23%,0.00%,48.98%,55.53%,57.56%,0.23%,21.44%,0.00%,18.74%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Black / African American,454,0.00%,4.41%,5.51%,0.00%,0.44%,0.22%,44.49%,50.44%,53.08%,0.88%,17.84%,0.00%,22.03%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,8,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,62.50%,75.00%,75.00%,0.00%,12.50%,0.00%,12.50%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,9,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,33.33%,44.44%,55.56%,0.00%,0.00%,0.00%,44.44%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,8,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.00%,62.50%,62.50%,0.00%,12.50%,0.00%,25.00%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,7,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,28.57%,28.57%,28.57%,0.00%,14.29%,0.00%,57.14%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,9,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,11.11%,22.22%,0.00%,11.11%,0.00%,66.67%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,11,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,27.27%,27.27%,45.45%,9.09%,18.18%,0.00%,27.27%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,4,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,100.00%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,15,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,26.67%,33.33%,33.33%,0.00%,20.00%,0.00%,46.67%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,7,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,14.29%,28.57%,42.86%,0.00%,14.29%,0.00%,42.86%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,9,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,77.78%,88.89%,100.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,American Indian / Alaskan Native,14,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,35.71%,42.86%,42.86%,0.00%,21.43%,0.00%,35.71%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Asian,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Asian,171,0.00%,0.58%,0.58%,0.00%,0.00%,0.00%,50.29%,57.31%,58.48%,1.75%,7.02%,0.00%,32.16%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Asian,144,0.00%,0.69%,0.69%,0.69%,0.00%,0.00%,50.69%,54.86%,56.94%,1.39%,11.81%,0.00%,28.47%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Asian,118,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,51.69%,61.02%,63.56%,0.85%,8.47%,0.00%,27.12%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Asian,149,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,51.68%,57.72%,59.73%,1.34%,14.77%,0.00%,24.16%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Asian,127,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,53.54%,61.42%,63.78%,0.79%,10.24%,0.00%,25.20%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Asian,151,0.00%,0.00%,0.66%,0.00%,0.00%,0.00%,51.66%,60.93%,61.59%,0.66%,8.61%,0.00%,28.48%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Asian,133,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,58.65%,63.16%,65.41%,3.01%,15.04%,0.00%,16.54%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Asian,122,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,56.56%,66.39%,67.21%,1.64%,22.95%,0.00%,8.20%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Asian,128,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,57.81%,68.75%,70.31%,2.34%,14.06%,0.00%,13.28%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,0,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,8,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,37.50%,50.00%,50.00%,0.00%,25.00%,0.00%,25.00%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,5,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,80.00%,80.00%,80.00%,0.00%,0.00%,0.00%,20.00%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,4,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,25.00%,25.00%,25.00%,0.00%,0.00%,0.00%,75.00%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,4,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,75.00%,75.00%,75.00%,0.00%,0.00%,0.00%,25.00%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,7,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,42.86%,57.14%,71.43%,0.00%,0.00%,0.00%,28.57%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,8,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,50.00%,50.00%,50.00%,0.00%,25.00%,0.00%,25.00%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,5,0.00%,0.00%,0.00%,0.00%,0.00%,40.00%,0.00%,0.00%,0.00%,0.00%,40.00%,0.00%,20.00%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Native Hawaiian / Pacific Islander,7,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,33.33%,50.00%,50.00%,0.00%,14.29%,14.29%,28.57%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,White,656,0.00%,0.30%,0.61%,0.00%,0.00%,0.15%,49.85%,55.03%,56.10%,0.61%,16.92%,0.00%,25.61%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,White,629,0.00%,1.59%,2.07%,0.00%,0.00%,0.16%,48.65%,57.71%,58.19%,2.23%,15.10%,0.00%,22.26%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,White,902,0.00%,1.00%,1.00%,0.00%,0.11%,0.00%,41.57%,47.45%,48.78%,0.67%,12.64%,0.00%,36.81%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,White,828,0.00%,0.60%,1.21%,0.00%,0.12%,0.00%,48.07%,53.38%,54.35%,0.48%,9.78%,0.00%,34.06%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,White,731,0.00%,0.27%,0.82%,0.14%,0.00%,0.14%,47.25%,51.10%,52.75%,1.64%,13.41%,0.41%,30.92%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,White,711,0.00%,0.70%,0.70%,0.42%,0.00%,0.00%,46.84%,50.35%,51.62%,1.13%,10.97%,0.00%,35.16%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,White,698,0.00%,1.00%,1.29%,0.14%,0.14%,0.00%,47.85%,52.29%,53.87%,0.14%,9.17%,0.00%,35.24%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,White,756,0.00%,0.79%,1.32%,0.00%,0.13%,0.00%,45.77%,51.46%,53.04%,0.26%,12.04%,0.00%,33.20%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,White,571,0.00%,0.70%,0.70%,0.00%,0.00%,0.18%,46.41%,53.77%,55.87%,0.53%,15.76%,0.00%,26.97%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,White,301,0.00%,0.66%,0.66%,0.00%,0.00%,0.00%,59.14%,63.12%,63.79%,0.33%,19.93%,0.00%,15.28%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,White,377,0.00%,0.27%,0.53%,0.00%,0.00%,0.00%,55.17%,62.60%,63.93%,0.53%,16.98%,0.00%,18.04%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,127,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,37.80%,48.03%,50.39%,0.79%,13.39%,0.00%,35.43%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Asian / Pacific Islander,130,0.00%,0.00%,0.00%,0.00%,0.77%,0.00%,53.08%,59.23%,59.23%,3.08%,4.62%,0.00%,32.31%
+PROPRIETARY,2008-09,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,112,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,16.07%,20.54%,23.21%,2.68%,9.82%,0.00%,64.29%
+PROPRIETARY,2009-10,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,70,0.00%,0.00%,0.00%,0.00%,0.00%,0.00%,35.71%,40.00%,41.43%,2.86%,12.86%,0.00%,42.86%
+PROPRIETARY,2010-11,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,298,0.00%,1.68%,2.35%,0.34%,0.00%,0.00%,24.50%,27.52%,27.85%,3.02%,0.67%,0.00%,65.77%
+PROPRIETARY,2011-12,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,204,0.00%,0.49%,0.98%,0.00%,0.00%,0.00%,35.29%,38.24%,44.12%,0.49%,3.43%,0.00%,50.98%
+PROPRIETARY,2012-13,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,210,0.00%,0.48%,0.96%,0.00%,0.00%,0.00%,33.49%,39.23%,41.15%,0.95%,9.05%,0.48%,47.62%
+PROPRIETARY,2013-14,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,206,0.00%,0.00%,0.00%,0.49%,0.49%,0.00%,31.07%,38.83%,39.81%,0.97%,6.31%,0.00%,51.94%
+PROPRIETARY,2014-15,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,184,0.00%,1.09%,2.17%,0.54%,1.09%,0.00%,38.04%,41.30%,44.02%,0.00%,7.07%,0.00%,45.11%
+PROPRIETARY,2015-16,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,209,0.00%,2.39%,2.39%,0.48%,0.00%,0.48%,26.32%,30.62%,32.06%,3.35%,5.26%,0.00%,55.98%
+PROPRIETARY,2016-17,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,227,0.00%,0.88%,2.20%,0.00%,0.44%,0.88%,25.99%,33.04%,36.12%,1.76%,21.59%,0.00%,37.00%
+PROPRIETARY,2017-18,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,123,0.00%,0.00%,0.81%,0.00%,0.00%,0.81%,29.27%,36.59%,41.46%,1.63%,25.20%,0.00%,30.08%
+PROPRIETARY,2018-19,First-Time Entrants,Race/Ethnicity,Race/Ethnicity Unknown,174,0.00%,0.00%,2.30%,0.00%,0.00%,0.00%,30.46%,34.48%,36.21%,2.30%,22.41%,0.00%,36.78%
