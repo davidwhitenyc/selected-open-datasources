@@ -296,7 +296,7 @@ For more information please contact: david@msmdesign.nyc | [msmdesign.nyc](https
 
 ## Catalogue Number: MSM-DS23b
 
-**Dataset File Name:** MSM-DS23b-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio - MSM-023-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio
+**Dataset File Name:** MSM-DS23b-2018_-_2019_Class_Size_Pupil_to_Teacher_Ratio w/ Community School District names
 
 **Dataset Description:** Data can be used to compare Pupil-to-Teacher ratios by school. To meet the requirements of New York City Charter Section 522(c-f).
 
@@ -529,5 +529,26 @@ Graduation rates by sector broken out by various student categories (transfer st
 **Publisher:** New York State Education Department (NYSED)
 
 **Link to Original Source:** http://www.nysed.gov/information-reporting-services/higher-education-reports
+
+
+
+# UCI Machine Learning Repository Data Sets
+
+## Catalogue Number: UCI-001 “Abalone”
+
+**Dataset File Name:** UCI-001-abalone.csv
+
+**Dataset Description:** 
+
+Predicting the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location (hence food availability) may be required to solve the problem.
+
+**Acknowledgements:** Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+**Link to Original Source:** https://archive.ics.uci.edu/ml/datasets/Abalone
+
+**Dataset on MSM’s GitHub:** https://raw.githubusercontent.com/davidwhitemsm/selected-open-datasources/master/UCI-001-abalone.csv
+
+**Dataset on MSM’s Google Drive:** https://docs.google.com/spreadsheets/d/1GucV-sYL6rBDTyu6jv5G39HsDRf6SEhXhHoSHl43G5c/edit?usp=sharing
+
 
 
