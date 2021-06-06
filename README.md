@@ -532,6 +532,64 @@ Graduation rates by sector broken out by various student categories (transfer st
 
 
 
+## Catalogue Number: MSM-DS37
+
+**Dataset File Name:** MSM-DS37-M_WBELBEand_EBE_Certified_Business_List
+
+**Dataset Description:** M/WBE, LBE, and EBE Certified Business List (Updated May 31, 2021)
+
+The City’s certification programs, including the Minority and Women-owned Business Enterprise (M/WBE) Program, the Emerging Business Enterprise (EBE) Program and the Locally-based Business Enterprise (LBE) Program certify, promote, and foster the growth of the City’s minority and women-owned businesses and eligible small construction and construction-related businesses. Companies that become certified obtain greater access to and information about contracting opportunities, receive technical assistance to better compete for those opportunities, and benefit from inclusion in the City’s Online Directory of Certified Firms. This list contains detailed information on certified companies, including a brief description of their work history, contact information, and detailed information about what the companies sell. 
+
+**Publisher:** City of New York
+
+**Link to Original Source:** https://data.cityofnewyork.us/Business/M-WBE-LBE-and-EBE-Certified-Business-List/ci93-uc8s
+
+
+
+## Catalogue Number: MSM-DS38
+
+**Dataset File Name:** MSM-DS01-2020_DOE_High_School_Directory
+
+**Dataset Description:** Directory of Department of Education High Schools in 2020
+
+**Publisher:** City of New York
+
+**Link to Original Source:** [data.cityofnewyork.us/Education/2020-DOE-High-School-Directory/23z9-6uk9
+
+
+
+
+
+## Catalogue Number: MSM-DS39
+
+**Dataset File Name:** MSM-DS01-2020_DOE_High_School_Directory
+
+**Dataset Description:** Directory of Department of Education High Schools in 2020
+
+**Publisher:** City of New York
+
+**Link to Original Source:** [data.cityofnewyork.us/Education/2020-DOE-High-School-Directory/23z9-6uk9
+
+
+
+
+
+
+
+
+
+------
+
+
+
+------
+
+
+
+------
+
+
+
 # UCI Machine Learning Repository Data Sets
 
 ## Catalogue Number: UCI-001 “Abalone”
