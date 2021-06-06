@@ -564,13 +564,15 @@ The Tuition Assistance Program (TAP), New York's largest student financial aid g
 
 ## Catalogue Number: MSM-DS39
 
-**Dataset File Name:** MSM-DS01-2020_DOE_High_School_Directory
+**Dataset File Name:** MSM-DS39-2020-2021_SHSAT_Admissions_Test_Offers_By_Sending_School.csv
 
-**Dataset Description:** Directory of Department of Education High Schools in 2020
+**Dataset Description:** 2020-2021 SHSAT Admissions Test Offers By Sending School:
+
+This dataset provides, for each public NYC middle school, the number of students who participated in High School Admissions, the number of those students who took the Specialized High Schools Admissions Test (SHSAT) and the number who received an offer to one of the 8 testing Specialized High Schools.
 
 **Publisher:** City of New York
 
-**Link to Original Source:** [data.cityofnewyork.us/Education/2020-DOE-High-School-Directory/23z9-6uk9
+**Link to Original Source:** https://data.cityofnewyork.us/Education/2020-2021-SHSAT-Admissions-Test-Offers-By-Sending-/k8ah-28f4
 
 
 
