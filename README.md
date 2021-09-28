@@ -594,28 +594,3 @@ This dataset provides, for each public NYC middle school, the number of students
 
 
 
-# UCI Machine Learning Repository Data Sets
-
-## Catalogue Number: UCI-001 “Abalone”
-
-**Dataset File Name:** UCI-001-abalone.csv
-
-**Dataset Description:** 
-
-Data comes from an original (non-machine-learning) study:
-Warwick J Nash, Tracy L Sellers, Simon R Talbot, Andrew J Cawthorn and Wes B Ford (1994)
-"The Population Biology of Abalone (_Haliotis_ species) in Tasmania. I. Blacklip Abalone (_H. rubra_) from the North Coast and Islands of Bass Strait",
-Sea Fisheries Division, Technical Report No. 48 (ISSN 1034-3288)
-
-Predicting the age of abalone from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location (hence food availability) may be required to solve the problem.
-
-**Acknowledgements:** Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-
-**Link to Original Source:** https://archive.ics.uci.edu/ml/datasets/Abalone
-
-**Dataset on MSM’s GitHub:** https://raw.githubusercontent.com/davidwhitemsm/selected-open-datasources/master/UCI-001-abalone.csv
-
-**Dataset on MSM’s Google Drive:** https://docs.google.com/spreadsheets/d/1GucV-sYL6rBDTyu6jv5G39HsDRf6SEhXhHoSHl43G5c/edit?usp=sharing
-
-
-
